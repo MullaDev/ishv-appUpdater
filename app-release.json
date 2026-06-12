@@ -4,7 +4,7 @@
   "manual_url": "https://example.com/download",
   "force_update": true,
   "release_notes": [
-    "**New feature**: Added UDP support",
+    "**New feature**: Added New UDP support",
     "**Bug fix**: Fixed crash on Android 14"
   ]
 }
