@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.2",
+  "latest_version": "1.0",
   "inbuilt_url": "https://example.com/app-release.apk",
   "manual_url": "https://example.com/download",
   "force_update": true,
